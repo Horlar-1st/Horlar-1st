@@ -59,21 +59,21 @@ I love learning new technologies in Machine Learning, Deep Learning, Data Scienc
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ChantelleAA&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Horlar-1st&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=ChantelleAA&theme=dark&hide_border=true" />
+      <img src="https://streak-stats.demolab.com/?user=Horlar-1st&theme=dark&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChantelleAA&theme=dark&hide_border=true&layout=donut" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Horlar-1st&theme=dark&hide_border=true&layout=donut" />
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChantelleAA&theme=dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Horlar-1st&theme=dark" />
     </td>
     <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=ChantelleAA&theme=dark&margin-w=10&row=2&column=3" />
+      <img src="https://github-profile-trophy.vercel.app/?username=Horlar-1st&theme=dark&margin-w=10&row=2&column=3" />
     </td>
   </tr>
 </table>
