@@ -13,7 +13,7 @@ I love learning new technologies in Machine Learning, Deep Learning, Data Scienc
 ## About Me
 
 - &nbsp; I am a master holder at [African Institute of Mathematical Sciences](https://aims.edu.gh/), Ghana.
-- &nbsp; I have completed a Bachelor of Science in Mathematics and Master of sciences in Mathematics from Lagos State University, Ojo (https://lasu.edu.ng/home/)).
+- &nbsp; I have completed a Bachelor of Science in Mathematics and Master of sciences in Mathematics from [Lagos State University, Ojo](https://lasu.edu.ng/home/).
 - &nbsp; Exploring new technologies.
 <!--  -->
 <!-- (https://www.linkedin.com/in/francis-jeremiah-majawa-aaab401a2/) -->
