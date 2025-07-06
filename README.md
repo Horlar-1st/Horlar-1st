@@ -21,7 +21,7 @@ Currently contributing to academic research, tutoring, and applying computationa
 
 - **Mathematics & Theoretical Modeling**  
 - **Data Analysis & Visualization**: Python, R, Excel  
-- **Scientific Computing**: Wolfram Mathematica, Geogebra, MATLAB  
+- **Scientific Computing**: Wolfram Mathematica, Geogebra  
 - **Documentation & Typesetting**: LaTeX  
 - **Programming**: Python, R, SQL, Julia, GAP  
 - **Educational Technology & Online Tutoring**  
@@ -45,26 +45,17 @@ Here you'll find:
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"> </a>
 - <a href="mailto:shoyombomoshood1@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"> </a>
-- 🐦 [Twitter](https://twitter.com/horlar_1st)
-- 📚 [AskFilo Tutor Profile](https://askfilo.com/online-tutor/shoyombo-moshood-6476476)
-
-<!-- - 🔗 [LinkedIn](https://www.linkedin.com/in/shoyombo-moshood-582003126/)
-- 🐦 [Twitter](https://twitter.com/horlar_1st)
-- 📚 [AskFilo Tutor Profile](https://askfilo.com/online-tutor/shoyombo-moshood-6476476)
-- 📧 Email: [shoyombo.moshood@gmail.com](mailto:shoyombomoshood1@gmail.com) -->
+- <a href="https://twitter.com/horlar_1st" target="_blank">
+  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"> </a>
+- <a href="https://askfilo.com/online-tutor/shoyombo-moshood-6476476" target="_blank">
+  <img alt="AskFilo" src="https://img.shields.io/badge/AskFilo-Tutor_Profile-orange?logo=bookstack&logoColor=white"> </a>
+<!-- 🐦 [Twitter](https://twitter.com/horlar_1st)
+- 📚 [AskFilo Tutor Profile](https://askfilo.com/online-tutor/shoyombo-moshood-6476476) -->
 
 ---
 
 > *“Mathematics reveals the hidden structure of the universe – and I am passionate about guiding others to see it clearly.”*
 
-
-<!--##### How to reach me:
-  <a href="www.linkedin.com/in/shoyombo-moshood-582003126" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
-  </a>
-  <a href="shoyombomoshood1@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
-  </a> -->
 
 
 ## 💻 Tech Stack:
@@ -72,6 +63,9 @@ Here you'll find:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![SageMath](https://img.shields.io/badge/SageMath-%231A5ACC.svg?style=for-the-badge&logoColor=white)
+![Wolfram Mathematica](https://img.shields.io/badge/Wolfram_Mathematica-%23DD1100.svg?style=for-the-badge&logo=wolfram&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -80,6 +74,7 @@ Here you'll find:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![SymPy](https://img.shields.io/badge/SymPy-3776AB?style=for-the-badge&logo=sympy&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-v2.6.3-blue)
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E3B4E?style=for-the-badge&logo=python&logoColor=white)
@@ -95,9 +90,14 @@ Here you'll find:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![wordcloud](https://img.shields.io/badge/wordcloud-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![requests](https://img.shields.io/badge/requests-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
+![Qiskit](https://img.shields.io/badge/Qiskit-%23007ACC.svg?style=for-the-badge&logo=qiskit&logoColor=white)
+![Cirq](https://img.shields.io/badge/Cirq-%23FA5700.svg?style=for-the-badge&logo=cirq&logoColor=white)
+![Qiskit Aer](https://img.shields.io/badge/Qiskit_Aer-%23007ACC.svg?style=for-the-badge&logo=quantconnect&logoColor=white)
 
 ---
 
