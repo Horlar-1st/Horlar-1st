@@ -1,23 +1,71 @@
-## Hi, there! I'm Moshood.
+## 👨‍🏫 Hi, there! I'm Moshood.
+**Mathematician | Data Analyst | Educator | Programmer**
 
 <!-- <img width="30%" align="right" alt="Github" src="https://github.com/fra-majawa/fra-majawa/blob/main/97525-code-dark.gif"/> -->
-I love learning new technologies in Machine Learning, Deep Learning, Data Science and Web Development. I particulary more interested in application and implementation of Machine Learning Algorithms and Deep Learning on edge devices.
 
-##### How to reach me:
-- [LinkedIn](www.linkedin.com/in/shoyombo-moshood-582003126)
-- [Gmail](moshood@aims.edu.gh)
+Welcome to my GitHub! I’m Shoyombo Moshood, a passionate mathematician and researcher with strong interests in **pure mathematics**, **computational modeling**, **data science**, and **mathematics education**. I enjoy solving complex problems, teaching learners at various levels, and exploring the real-world applications of mathematical theory.
+
+---
+
+## 🔬 About Me
+
+- 🎓 MSc in Mathematical Sciences – [African Institute for Mathematical Sciences (AIMS), Ghana](https://aims.edu.gh/).
+- 🎓 BSc and MSc in Mathematics – [Lagos State University (LASU), Ojo](https://lasu.edu.ng/home/).
+- 🖥️ National Diploma in Computer Software Engineering  
+
+Currently contributing to academic research, tutoring, and applying computational techniques to both theoretical and practical problems.
+
+---
+
+## 🛠️ Key Skills
+
+- **Mathematics & Theoretical Modeling**  
+- **Data Analysis & Visualization**: Python, R, Excel  
+- **Scientific Computing**: Wolfram Mathematica, Geogebra, MATLAB  
+- **Documentation & Typesetting**: LaTeX  
+- **Programming**: Python, R, SQL, Julia, GAP  
+- **Educational Technology & Online Tutoring**  
+
+---
+
+## 📁 Featured Repositories
+
+Here you'll find:
+
+- 📊 **Data Science Projects**: Exploratory data analysis, predictive modeling, educational datasets  
+- 📐 **Math Research Notebooks**: Topics in Number Theory, Algebra, Geometry, and Applied Mathematics  
+- 🧮 **Problem-Solving Collections**: Olympiad-style and advanced undergraduate-level solutions  
+- 💡 **Teaching Materials**: Slides, lesson notes, and code for academic support  
+
+---
+
+## 🌍 Let’s Connect
+
+- <a href="https://www.linkedin.com/in/shoyombo-moshood-582003126" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"> </a>
+- <a href="mailto:shoyombomoshood1@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"> </a>
+- 🐦 [Twitter](https://twitter.com/horlar_1st)
+- 📚 [AskFilo Tutor Profile](https://askfilo.com/online-tutor/shoyombo-moshood-6476476)
+
+<!-- - 🔗 [LinkedIn](https://www.linkedin.com/in/shoyombo-moshood-582003126/)
+- 🐦 [Twitter](https://twitter.com/horlar_1st)
+- 📚 [AskFilo Tutor Profile](https://askfilo.com/online-tutor/shoyombo-moshood-6476476)
+- 📧 Email: [shoyombo.moshood@gmail.com](mailto:shoyombomoshood1@gmail.com) -->
+
+---
+
+> *“Mathematics reveals the hidden structure of the universe – and I am passionate about guiding others to see it clearly.”*
 
 
-<!--<img src="https://komarev.com/ghpvc/?username=gpy1234&style=flat-square&color=blue" alt=""/> -->
+<!--##### How to reach me:
+  <a href="www.linkedin.com/in/shoyombo-moshood-582003126" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+  </a>
+  <a href="shoyombomoshood1@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+  </a> -->
 
-## About Me
-
-- &nbsp; I am a master holder at [African Institute of Mathematical Sciences](https://aims.edu.gh/), Ghana.
-- &nbsp; I have completed a Bachelor of Science in Mathematics and Master of sciences in Mathematics from [Lagos State University, Ojo](https://lasu.edu.ng/home/).
-- &nbsp; Exploring new technologies.
-<!--  -->
-<!-- (https://www.linkedin.com/in/francis-jeremiah-majawa-aaab401a2/) -->
-<!-- <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script> -->
 
 ## 💻 Tech Stack:
 
@@ -41,7 +89,6 @@ I love learning new technologies in Machine Learning, Deep Learning, Data Scienc
 ![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-%23404eed.svg?style=for-the-badge&logo=gradio&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%23black?style=for-the-badge)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
