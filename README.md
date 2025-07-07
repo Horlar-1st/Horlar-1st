@@ -1,7 +1,7 @@
 ## 👨‍🏫 Hi, there! I'm Moshood.
 **Mathematician | Researcher | Data Analyst | Educator | Programmer**
 
- <img width="25%" align="right" alt="Github" src="https://github.com/Horlar-1st/Horlar-1st/blob/main/img2.jpg"/> 
+ <img width="20%" align="right" alt="Github" src="https://github.com/Horlar-1st/Horlar-1st/blob/main/img2.jpg"/> 
 
 Welcome to my GitHub! I’m Shoyombo Moshood, a passionate mathematician and researcher with strong interests in **pure mathematics**, **computational modeling**, **data science**, and **mathematics education**. I enjoy solving complex problems, teaching learners at various levels, and exploring the real-world applications of mathematical theory.
 
