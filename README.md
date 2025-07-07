@@ -1,5 +1,5 @@
 ## 👨‍🏫 Hi, there! I'm Moshood.
-**Mathematician | Data Analyst | Educator | Programmer**
+**Mathematician | Researcher | Data Analyst | Educator | Programmer**
 
 <!-- <img width="30%" align="right" alt="Github" src="https://github.com/fra-majawa/fra-majawa/blob/main/97525-code-dark.gif"/> -->
 
