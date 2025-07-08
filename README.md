@@ -49,8 +49,8 @@ Here you'll find:
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"> </a>
 - <a href="https://askfilo.com/online-tutor/shoyombo-moshood-6476476" target="_blank">
   <img alt="AskFilo" src="https://img.shields.io/badge/AskFilo-Tutor_Profile-orange?logo=bookstack&logoColor=white"> </a>
-<!-- 🐦 [Twitter](https://twitter.com/horlar_1st)
-- 📚 [AskFilo Tutor Profile](https://askfilo.com/online-tutor/shoyombo-moshood-6476476) -->
+- <a href="https://www.kaggle.com/moshood12" target="_blank">
+  <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white">
 
 ---
 
