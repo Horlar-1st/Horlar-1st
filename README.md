@@ -23,7 +23,8 @@ Currently contributing to academic research, tutoring, and applying computationa
 - **Data Analysis & Visualization**: Python, R, Excel  
 - **Scientific Computing**: Wolfram Mathematica, Geogebra  
 - **Documentation & Typesetting**: LaTeX  
-- **Programming**: Python, R, SQL, Julia, GAP  
+- **Programming**: Python, R, SQL, Julia, GAP
+- **Quantum Information Processing** 
 - **Educational Technology & Online Tutoring**  
 
 ---
