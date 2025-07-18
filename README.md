@@ -24,7 +24,7 @@ Currently contributing to academic research, tutoring, and applying computationa
 - **Scientific Computing**: Wolfram Mathematica, Geogebra  
 - **Documentation & Typesetting**: LaTeX  
 - **Programming**: Python, R, SQL, Julia, GAP
-- **Quantum Information Processing** 
+- **Quantum Computing**: Qiskit, Cirq
 - **Educational Technology & Online Tutoring**  
 
 ---
