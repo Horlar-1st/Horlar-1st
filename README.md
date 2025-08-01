@@ -19,19 +19,19 @@ Currently contributing to academic research, tutoring, and applying computationa
 
 ## 🛠️ Key Skills
 
-- **Mathematics & Theoretical Modeling**  
 - **Data Analysis & Visualization**: Python, R, Excel  
 - **Scientific Computing**: Wolfram Mathematica, Geogebra  
 - **Documentation & Typesetting**: LaTeX  
 - **Programming**: Python, R, SQL, Julia, GAP
 - **Quantum Computing**: Qiskit, Cirq
-- **Educational Technology & Online Tutoring**  
+- **Educational Technology & Online Tutoring**
+- **Mathematics & Theoretical Modeling**  
 
 ---
 
 ## 📁 Featured Repositories
 
-Here you'll find:
+Here you will find:
 
 - 📊 **Data Science Projects**: Exploratory data analysis, predictive modeling, educational datasets  
 - 📐 **Math Research Notebooks**: Topics in Number Theory, Algebra, Geometry, and Applied Mathematics  
