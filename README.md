@@ -70,7 +70,6 @@ Here you will find:
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -92,7 +91,7 @@ Here you will find:
 
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)
-
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ![wordcloud](https://img.shields.io/badge/wordcloud-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![requests](https://img.shields.io/badge/requests-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
