@@ -91,6 +91,9 @@ Here you will find:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)
+
+
 ![wordcloud](https://img.shields.io/badge/wordcloud-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![requests](https://img.shields.io/badge/requests-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
