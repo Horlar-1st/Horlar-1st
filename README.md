@@ -66,7 +66,11 @@ Here you will find:
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![SageMath](https://img.shields.io/badge/SageMath-%231A5ACC.svg?style=for-the-badge&logoColor=white)
 ![Wolfram Mathematica](https://img.shields.io/badge/Wolfram_Mathematica-%23DD1100.svg?style=for-the-badge&logo=wolfram&logoColor=white)
+
 ![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-%23404eed.svg?style=for-the-badge&logo=gradio&logoColor=white)
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
@@ -80,10 +84,6 @@ Here you will find:
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E3B4E?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-v2.6.3-blue)
-
-![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-%23404eed.svg?style=for-the-badge&logo=gradio&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
