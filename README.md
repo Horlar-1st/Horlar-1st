@@ -29,13 +29,7 @@ Currently contributing to academic research, tutoring, and applying computationa
 
 ---
 
-## 📁 Featured Repositories
 
-Here you will find:
-
-- 📊 **Data Science Projects**: Exploratory data analysis, predictive modeling, educational datasets  
-- 📐 **Math Research Notebooks**: Topics in Number Theory, Algebra, Geometry, and Applied Mathematics  
-- 🧮 **Problem-Solving Collections**: Olympiad-style and advanced undergraduate-level solutions  
 
 ---
 
