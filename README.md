@@ -29,7 +29,14 @@ Currently contributing to academic research, tutoring, and applying computationa
 
 ---
 
+## 📁 Featured Repositories
 
+Here you will find:
+
+- 📊 **Data Science Projects**: Exploratory data analysis, predictive modeling, and end-to-end ML workflows  
+- 🗣️ **Natural Language Processing (NLP)**: Text preprocessing, sentiment analysis, embeddings, and language models  
+- 📈 **Data Analysis Notebooks**: Data cleaning, visualization, and statistical insights from real-world datasets  
+- 🛠️ **Programming Tools & Utilities**: Python scripts and reusable modules designed to simplify data-driven workflows
 
 ---
 
