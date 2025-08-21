@@ -99,6 +99,7 @@ Here you will find:
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white)
+![tidymodels](https://img.shields.io/badge/tidymodels-EE6331?style=for-the-badge&logo=tidymodels&logoColor=white)
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-%23007ACC.svg?style=for-the-badge&logo=qiskit&logoColor=white)
 ![Cirq](https://img.shields.io/badge/Cirq-%23FA5700.svg?style=for-the-badge&logo=cirq&logoColor=white)
