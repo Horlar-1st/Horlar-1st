@@ -109,6 +109,8 @@ Here you will find:
 ![Cirq](https://img.shields.io/badge/Cirq-%23FA5700.svg?style=for-the-badge&logo=cirq&logoColor=white)
 ![Qiskit Aer](https://img.shields.io/badge/Qiskit_Aer-%23007ACC.svg?style=for-the-badge&logo=quantconnect&logoColor=white)
 ![qBraid](https://img.shields.io/badge/qBraid-DB0071?style=for-the-badge&logo=qbraid&logoColor=white)
+![Pennylane](https://img.shields.io/badge/Pennylane-2f2f2f?style=for-the-badge&logo=pennylane&logoColor=white)
+
 
 
 ---
