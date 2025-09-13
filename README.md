@@ -1,10 +1,9 @@
-## 👨‍🏫 Hi, there! I'm Moshood.
+## 👨‍🏫 Hi, there! I'm Shoyombo Moshood.
 **Mathematician | Researcher | Data Analyst | Educator | Programmer**
 
  <img width="20%" align="right" alt="Github" src="https://github.com/Horlar-1st/Horlar-1st/blob/main/img.png"/> 
 
-Welcome to my GitHub! I’m Shoyombo Moshood, a passionate mathematician and researcher with strong interests in **pure mathematics**, **computational modeling**, **data science**, **Natural Language Processing**, and **Machine learning**. I enjoy solving complex problems, teaching learners at various levels, and exploring the real-world applications of mathematical theory.
-
+I’m a passionate mathematician and researcher with strong interests in **pure mathematics**, **computational modeling**, **data science**, **Natural Language Processing**, and **Machine learning**. I enjoy solving complex problems, teaching learners at various levels, and exploring the real-world applications of mathematical theory.
 I most recently earned an MSc in Mathematical Sciences from the African Institute for Mathematical Sciences (AIMS), Ghana, after completing BSc and MSc degrees in Mathematics at Lagos State University (LASU), Ojo. Earlier in my academic journey, I obtained a National Diploma in Computer Software Engineering. I am currently engaged in academic research, tutoring, and applying computational techniques to both theoretical and practical problems.
 ---
 
