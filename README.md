@@ -5,16 +5,7 @@
 
 Welcome to my GitHub! I’m Shoyombo Moshood, a passionate mathematician and researcher with strong interests in **pure mathematics**, **computational modeling**, **data science**, **Natural Language Processing**, and **Machine learning**. I enjoy solving complex problems, teaching learners at various levels, and exploring the real-world applications of mathematical theory.
 
----
-
-## 🔬 About Me
-
-- 🎓 MSc in Mathematical Sciences – [African Institute for Mathematical Sciences (AIMS), Ghana](https://aims.edu.gh/).
-- 🎓 BSc and MSc in Mathematics – [Lagos State University (LASU), Ojo](https://lasu.edu.ng/home/).
-- 🖥️ National Diploma in Computer Software Engineering  
-
-Currently contributing to academic research, tutoring, and applying computational techniques to both theoretical and practical problems.
-
+I most recently earned an MSc in Mathematical Sciences from the African Institute for Mathematical Sciences (AIMS), Ghana, after completing BSc and MSc degrees in Mathematics at Lagos State University (LASU), Ojo. Earlier in my academic journey, I obtained a National Diploma in Computer Software Engineering. I am currently engaged in academic research, tutoring, and applying computational techniques to both theoretical and practical problems.
 ---
 
 ## 🛠️ Key Skills
