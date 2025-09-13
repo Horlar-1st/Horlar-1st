@@ -1,11 +1,10 @@
-<img width="20%" align="right" alt="working" src="https://github.com/Horlar-1st/Horlar-1st/blob/main/img.png"/> 
 # 👨‍🏫 Hi, there! I'm Shoyombo Moshood.
 
 I’m a passionate mathematician and researcher with strong interests in **pure mathematics**, **computational modeling**, **data science**, **Natural Language Processing**, and **Machine learning**. I enjoy solving complex problems, teaching learners at various levels, and exploring the real-world applications of mathematical theory.
 I most recently earned an MSc in Mathematical Sciences from the African Institute for Mathematical Sciences (AIMS), Ghana, after completing BSc and MSc degrees in Mathematics at Lagos State University (LASU), Ojo. Earlier in my academic journey, I obtained a National Diploma in Computer Software Engineering. I am currently engaged in academic research, tutoring, and applying computational techniques to both theoretical and practical problems.
 ---
 
-## 🛠️ Key Skills
+# 🛠️ Key Skills
 
 - **Data Analysis & Visualization**: Python, R, Excel  
 - **Scientific Computing**: Wolfram Mathematica, Geogebra  
@@ -17,7 +16,7 @@ I most recently earned an MSc in Mathematical Sciences from the African Institut
 
 ---
 
-## 📁 Featured Repositories
+# 📁 Featured Repositories
 
 Here you will find:
 
@@ -28,7 +27,7 @@ Here you will find:
 
 ---
 
-## 🌍 Let’s Connect
+# 🌍 Let’s Connect
 
 - <a href="mailto:shoyombomoshood1@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"> </a>
@@ -47,7 +46,7 @@ Here you will find:
 
 
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -103,7 +102,7 @@ Here you will find:
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <table>
   <tr>
