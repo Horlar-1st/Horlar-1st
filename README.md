@@ -7,6 +7,16 @@ I’m a passionate mathematician and researcher with strong interests in pure ma
 
 I most recently earned an MSc in Mathematical Sciences from the African Institute for Mathematical Sciences (AIMS), Ghana, after completing BSc and MSc degrees in Mathematics at Lagos State University (LASU), Ojo. Earlier in my academic journey, I obtained a National Diploma in Computer Software Engineering. I am currently engaged in academic research, tutoring, and applying computational techniques to both theoretical and practical problems.
 
+🌍 Let’s Connect: <a href="mailto:shoyombomoshood1@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"> </a>,
+  <a href="https://www.linkedin.com/in/shoyombo-moshood-582003126" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"> </a>,
+  <a href="https://twitter.com/horlar_1st" target="_blank">
+  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"> </a>,
+  <a href="https://www.kaggle.com/moshood12" target="_blank">
+  <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white"> </a>,
+  <a href="https://askfilo.com/online-tutor/shoyombo-moshood-6476476" target="_blank">
+  <img alt="AskFilo" src="https://img.shields.io/badge/AskFilo-Tutor_Profile-orange?logo=bookstack&logoColor=white"> </a>
 ---
 
 # 🛠️ Key Skills
@@ -29,21 +39,6 @@ Here you will find:
 - 🗣️ **Natural Language Processing (NLP)**: Text preprocessing, sentiment analysis, embeddings, and language models  
 - 📈 **Data Analysis Notebooks**: Data cleaning, visualization, and statistical insights from real-world datasets  
 - 🛠️ **Programming Tools & Utilities**: Python scripts and reusable modules designed to simplify data-driven workflows
-
----
-
-# 🌍 Let’s Connect
-
-- <a href="mailto:shoyombomoshood1@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"> </a>
-- <a href="https://www.linkedin.com/in/shoyombo-moshood-582003126" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"> </a>
-- <a href="https://twitter.com/horlar_1st" target="_blank">
-  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"> </a>
-- <a href="https://www.kaggle.com/moshood12" target="_blank">
-  <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white">
-- <a href="https://askfilo.com/online-tutor/shoyombo-moshood-6476476" target="_blank">
-  <img alt="AskFilo" src="https://img.shields.io/badge/AskFilo-Tutor_Profile-orange?logo=bookstack&logoColor=white"> </a>
 
 ---
 
