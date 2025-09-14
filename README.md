@@ -48,15 +48,17 @@ Here you will find:
 
 ## Featured Projects  
 
-### 🧑🏾‍⚖️ FInancial Inclusion App 
+### 🧑🏾‍⚖️ Financial Inclusion App 
+
+![Financial Inclusion App](https://github.com/Horlar-1st/Financial-Inclusion-among-Young-People/blob/main/financial_inclusion_demo1.gif)
 
 A web-based application 
-- Real-time leaderboard & analytics  
-- Criteria filtered by judge expertise  
-- One-time secure voting links  
-- Admin dashboard for managing live events  
 
-[🔗 GitHub Repo]() •   
+* Banking Document Manager
+* Financial Education Hub
+* Banking Service Directory
+
+[🔗 GitHub Repo](https://github.com/Horlar-1st/Financial-Inclusion-among-Young-People/) •   
 **Stack:** Python, CSS, Typescript  
 
 ---
