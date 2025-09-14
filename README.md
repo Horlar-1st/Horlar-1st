@@ -52,13 +52,13 @@ Here you will find:
 
 ![Financial Inclusion App](https://github.com/Horlar-1st/Financial-Inclusion-among-Young-People/blob/main/financial_inclusion_demo1.gif)
 
-A web-based application 
+A web-based application to help young people track, validate, and manage the documents required for opening and maintaining bank accounts, provide a learning space to improve financial literacy among youth and empower informed decision-making and gives accessible and youth-friendly financial institutions, mobile money platforms, and fintech solutions to get started.
 
 * Banking Document Manager
 * Financial Education Hub
 * Banking Service Directory
 
-[🔗 GitHub Repo](https://github.com/Horlar-1st/Financial-Inclusion-among-Young-People/) •   
+[🔗 GitHub Repo](https://github.com/Horlar-1st/Financial-Inclusion-among-Young-People/) 
 **Stack:** Python, CSS, Typescript  
 
 ---
