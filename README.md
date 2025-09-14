@@ -44,8 +44,22 @@ Here you will find:
 
 > *“Mathematics reveals the hidden structure of the universe – and I am passionate about guiding others to see it clearly.”*
 
+---
 
+## Featured Projects  
 
+### 🧑🏾‍⚖️ FInancial Inclusion App 
+
+A web-based application 
+- Real-time leaderboard & analytics  
+- Criteria filtered by judge expertise  
+- One-time secure voting links  
+- Admin dashboard for managing live events  
+
+[🔗 GitHub Repo]() •   
+**Stack:** Python, CSS, Typescript  
+
+---
 # 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
