@@ -3,11 +3,11 @@
 
 # 👨‍🏫 Hi, there! I'm Shoyombo Moshood.
 
-I’m a passionate mathematician and researcher with strong interests in pure mathematics, computational modeling, data science, Natural Language Processing, and Machine learning. I enjoy solving complex problems, teaching learners at various levels, and exploring the real-world applications of mathematical theory.
+I’m a passionate mathematician and researcher with strong interests in **pure mathematics**, **computational modeling**, **data science**, **Natural Language Processing**, and **Machine learning**. I enjoy solving complex problems, teaching learners at various levels, and exploring the real-world applications of mathematical theory.
 
 I most recently earned an MSc in Mathematical Sciences from the African Institute for Mathematical Sciences (AIMS), Ghana, after completing BSc and MSc degrees in Mathematics at Lagos State University (LASU), Ojo. Earlier in my academic journey, I obtained a National Diploma in Computer Software Engineering. I am currently engaged in academic research, tutoring, and applying computational techniques to both theoretical and practical problems.
 
-My work ranges from teaching and mentoring students in mathematics and statistics to conducting research that applies computational methods to real-world problems. I also develop solutions through programming in Python, R, SQL, and Mathematica, combining theory with practical implementation.
+My work ranges from teaching and mentoring students in mathematics and statistics to conducting research that applies computational methods to real-world problems. I also develop solutions through programming in **Python**, **R**, **SQL**, and **Mathematica**, combining theory with practical implementation.
 
 Let’s Connect: <a href="mailto:shoyombomoshood1@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"> </a>
