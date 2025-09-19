@@ -28,7 +28,7 @@ Let’s Connect: <a href="mailto:shoyombomoshood1@gmail.com">
 - **Scientific Computing**: Wolfram Mathematica, Geogebra  
 - **Documentation & Typesetting**: LaTeX  
 - **Programming**: Python, R, SQL, Julia, GAP
-- **Quantum Computing**: Qiskit, Cirq
+- **Quantum Computing**: Qiskit, Cirq, Pennylane 
 - **Educational Technology & Online Tutoring**
 - **Mathematics & Theoretical Modeling**  
 
