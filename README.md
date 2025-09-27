@@ -17,10 +17,11 @@ Let’s Connect: <a href="mailto:shoyombomoshood1@gmail.com">
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"> </a>
   <a href="https://www.kaggle.com/moshood12" target="_blank">
   <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white"> </a>
-  <a href="https://askfilo.com/online-tutor/shoyombo-moshood-6476476" target="_blank">
-  <img alt="AskFilo" src="https://img.shields.io/badge/AskFilo-Tutor_Profile-orange?logo=bookstack&logoColor=white"> </a>
   <a href="https://www.datacamp.com/portfolio/moshood-8efbc2c2-a9ba-4bb7-a536-0af17a8713fd" target="_blank">
   <img alt="DataCamp" src="https://img.shields.io/badge/DataCamp-Portfolio-blue?logo=datacamp&logoColor=white"> </a>
+  <a href="https://askfilo.com/online-tutor/shoyombo-moshood-6476476" target="_blank">
+  <img alt="AskFilo" src="https://img.shields.io/badge/AskFilo-Tutor_Profile-orange?logo=bookstack&logoColor=white"> </a>
+
 
 ---
 
