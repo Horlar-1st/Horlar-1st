@@ -1,7 +1,7 @@
 <img width="20%" align="right" alt="working" 
   src="https://github.com/Horlar-1st/Horlar-1st/blob/main/img.png"/>
 
-# 👨‍🏫 Hi, there! I'm Shoyombo Moshood.
+# 👨‍🏫 Hi, there! I'm Moshood.
 
 I’m a passionate mathematician and researcher with strong interests in **pure mathematics**, **computational modeling**, **data science**, **Natural Language Processing**, and **Machine learning**. I enjoy solving complex problems, teaching learners at various levels, and exploring the real-world applications of mathematical theory.
 
