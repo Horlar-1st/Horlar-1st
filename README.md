@@ -1,5 +1,5 @@
-<img width="20%" align="right" alt="working" 
-  src="https://github.com/Horlar-1st/Horlar-1st/blob/main/img.png"/>
+<!-- <img width="20%" align="right" alt="working" 
+  src="https://github.com/Horlar-1st/Horlar-1st/blob/main/img.png"/> -->
 
 # 👨‍🏫 Hi, there! I'm Moshood.
 
