@@ -114,6 +114,7 @@ A web-based application to help young people track, validate, and manage the doc
 ![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white)
 ![tidymodels](https://img.shields.io/badge/tidymodels-EE6331?style=for-the-badge&logo=tidymodels&logoColor=white)
 ![dplyr](https://img.shields.io/badge/dplyr-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![broom](https://img.shields.io/badge/broom-276DC3?style=for-the-badge&logo=R&logoColor=white)
 
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-%23007ACC.svg?style=for-the-badge&logo=qiskit&logoColor=white)
