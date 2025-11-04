@@ -103,6 +103,7 @@ A web-based application to help young people track, validate, and manage the doc
 
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)
+![re](https://img.shields.io/badge/re-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ![wordcloud](https://img.shields.io/badge/wordcloud-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
