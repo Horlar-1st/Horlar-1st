@@ -82,7 +82,7 @@ Key features include:
 
 [🔗 GitHub Repo](https://github.com/MoshoodSO/AI-Powered-Research-Assistant-App)
 
-**💻 Stack**: Lovable.dev (platform), TypeScript, Javascript, Node.js, Python (for NLP tasks)
+**💻 Stack**: TypeScript, Javascript, Lovable.dev (platform), Node.js, Python (for NLP tasks)
 
 ---
 # 🏆 Recognitions
