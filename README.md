@@ -29,7 +29,7 @@ Let’s Connect: <a href="mailto:shoyombomoshood1@gmail.com">
 
 - **Data Analysis & Visualization**: Python, R, Excel  
 - **Scientific Computing**: Wolfram Mathematica, Geogebra, Desmos
-- **Documentation & Typesetting**: $\LaTeX$, MS Office
+- **Documentation & Typesetting**: LaTeX, MS Office
 - **Programming**: Python, R, SQL, Julia, GAP
 - **Quantum Computing**: Qiskit, Cirq, Pennylane 
 - **Educational Technology & Online Tutoring**
