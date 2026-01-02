@@ -32,7 +32,7 @@ Let’s Connect: <a href="mailto:shoyombomoshood1@gmail.com">
 - **Documentation & Typesetting**: LaTeX, MS Office
 - **Programming**: Python, R, SQL, Julia, GAP
 - **Quantum Computing**: Qiskit, Cirq, Pennylane 
-- **Educational Technology & Online Tutoring**: Filo, Wayground
+- **Educational Technology & Online Tutoring**: Filo, Wayground(Quizzizz)
 - **Mathematics & Theoretical Modeling**  
 
 ---
