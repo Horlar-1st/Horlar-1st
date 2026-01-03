@@ -5,9 +5,9 @@
 
 I’m a passionate mathematician and researcher with a strong focus on **Data Science**, **Natural Language Processing**, and **Generative AI**. My work blends rigorous mathematical reasoning with modern computational methods to build intelligent models, analyze complex datasets, and develop innovative language-focused AI systems. I enjoy solving challenging problems, mentoring learners at all levels, and exploring how advanced mathematical concepts drive real-world solutions in AI and machine learning.
 
-I most recently earned an MSc in Mathematical Sciences from the African Institute for Mathematical Sciences (AIMS), Ghana, after completing both BSc and MSc degrees in Mathematics at Lagos State University (LASU), Ojo. Earlier in my academic journey, I obtained a National Diploma in Computer Software Engineering. Alongside my formal education, I hold several professional certifications, including Associate Data Scientist, Data Literacy, and AI Fundamentals on DataCamp, as well as training in Apache Spark and other modern data tools.
+I most recently earned an MSc in Mathematical Sciences from the African Institute for Mathematical Sciences (AIMS), Ghana, after completing both BSc and MSc degrees in Mathematics at Lagos State University (LASU), Ojo. Earlier in my academic journey, I obtained a National Diploma in Computer Software Engineering. Alongside my formal education, I hold several professional certifications, including Associate Data Scientist (Python, SQL) , Data Literacy, and AI Fundamentals on DataCamp, as well as training in Apache Spark and other modern data tools.
 
-I am currently engaged in academic research, tutoring, and applying computational techniques to both theoretical and practical problems, with a growing focus on data science, Natural Language Processing, and AI/ML-driven solutions. My work spans teaching and mentoring students in mathematics and statistics, conducting research that applies computational methods to real-world challenges, and developing data-driven solutions through programming in Python, R, SQL, and Mathematica, effectively combining mathematical theory with practical implementation.
+I am currently engaged in academic research, tutoring, and applying computational techniques to both theoretical and practical problems, with a growing focus on data science, Natural Language Processing, and AI/ML-driven solutions. My work spans teaching and mentoring students in mathematics and statistics, conducting research that applies computational methods to real-world challenges, and developing data-driven solutions through programming in Python, R, SQL, SageMath and Wolfram Mathematica, effectively combining mathematical theory with practical implementation.
 
 Let’s Connect: <a href="mailto:shoyombomoshood1@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"> </a>
@@ -32,7 +32,7 @@ Let’s Connect: <a href="mailto:shoyombomoshood1@gmail.com">
 - **Documentation & Typesetting**: LaTeX, MS Office
 - **Programming**: Python, R, SQL, Julia, GAP
 - **Quantum Computing**: Qiskit, Cirq, Pennylane 
-- **Educational Technology & Online Tutoring**: Filo, Wayground(Quizzizz)
+- **Educational Technology & Online Tutoring**: Filo, Wayground (Quizzizz)
 - **Mathematics & Theoretical Modeling**  
 
 ---
