@@ -86,16 +86,18 @@ Key features include:
 
 
 
-## 🤖📚 GPA Genius - An AI-Powered Research Assistant App
+## 🤖📊 GPA Genius - An AI-Powered GPA calculator and tracker
 
 ![Demo](https://github.com/MoshoodSO/GPA-Calculator/blob/main/graphics/GPAdemo.gif)
 
 This is a smart GPA calculator app designed to empower students to take full control of their education. Beyond simple math, this tool allows you to calculate precise results in seconds, track your progress through intuitive visual dashboards, and crush your academic goals by setting targets that keep you motivated. Whether you are navigating your freshman year or finishing your degree, GPA Genius turns your data into a roadmap for success. This app was built using Lovable.dev, an AI-powered platform that enables the creation of full-stack web applications from natural language prompts.
 
 Key features include:
-- Document Upload & Processing (Support for multiple file formats PDF, DOCX, etc.)
-- AI-Powered Assistant 
-- User Experience
+- Calculating GPA per semester
+- Enable Grading Scale setting
+- Track cummulative GPA across multiple semesters
+- Visualization of academic trends with graphs
+- Plan and project better outcomes and suggect area of focus
 
 [🔗 GitHub Repo](https://github.com/MoshoodSO/GPA-Calculator)
 
