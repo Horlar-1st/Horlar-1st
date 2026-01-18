@@ -84,6 +84,23 @@ Key features include:
 
 **💻 Stack**: TypeScript, Javascript, Lovable.dev (platform), Node.js, Python (for NLP tasks)
 
+
+
+## 🤖📚 GPA Genius - An AI-Powered Research Assistant App
+
+![Demo](https://github.com/MoshoodSO/AI-Powered-Research-Assistant-App/blob/main/research4me.gif)
+
+This is a smart GPA calculator app designed to empower students to take full control of their education. Beyond simple math, this tool allows you to calculate precise results in seconds, track your progress through intuitive visual dashboards, and crush your academic goals by setting targets that keep you motivated. Whether you are navigating your freshman year or finishing your degree, GPA Genius turns your data into a roadmap for success. This app was built using Lovable.dev, an AI-powered platform that enables the creation of full-stack web applications from natural language prompts.
+
+Key features include:
+- Document Upload & Processing (Support for multiple file formats PDF, DOCX, etc.)
+- AI-Powered Assistant 
+- User Experience
+
+[🔗 GitHub Repo](https://github.com/MoshoodSO/GPA-Calculator)
+
+
+
 ---
 # 🏆 Recognitions
 - 📜 **LinkedIn Learning Certifications (2025)**  
