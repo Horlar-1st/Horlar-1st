@@ -103,6 +103,7 @@ Key features include:
 [🔗 GitHub Repo](https://github.com/MoshoodSO/GPA-Calculator)
 
 
+**💻 Stack**: TypeScript, Javascript, Lovable.dev (platform), Node.js
 
 ---
 # 🏆 Recognitions
