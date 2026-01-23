@@ -91,7 +91,9 @@ Key features include:
 ![Demo](https://github.com/MoshoodSO/GPA-Calculator/blob/main/graphics/GPAdemo.gif)
 
 
-🚀 GPA Genius empowers students to own their education with a smart app that calculates GPAs fast, tracks progress visually, and helps crush goals. Built on Lovable.dev, an AI-powered platform for creating web apps, GPA Genius turns data into a roadmap for academic success. 
+🚀 GPA Genius is a smart web app that helps students take control of their academic journey. It quickly calculates GPAs, visualizes progress over time, and turns academic data into clear, actionable insights.
+
+Built with Lovable.dev, an AI-powered platform for creating web apps, GPA Genius makes it easy to track performance, set goals, and stay motivated—all in one place.
 
 Key features include:
 - Calculating GPA per semester
