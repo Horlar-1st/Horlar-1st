@@ -86,7 +86,7 @@ Key features include:
 
 
 
-## 🤖📊 GPA Genius - An AI-Powered GPA calculator and tracker
+## 🤖📊 GPA Genius - An AI-Powered GPA Calculator and Tracker
 
 ![Demo](https://github.com/MoshoodSO/GPA-Calculator/blob/main/graphics/GPAdemo.gif)
 
