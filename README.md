@@ -45,8 +45,8 @@ Here you will find:
 - 🗣️ **Natural Language Processing (NLP)**: Text preprocessing, sentiment analysis, embeddings, and language models  
 - 📈 **Data Analysis Notebooks**: Data cleaning, visualization, and statistical insights from real-world datasets  
 - 🛠️ **Programming Tools & Utilities**: Python scripts and reusable modules designed to simplify data-driven workflows
--  Generative AI Projects 
--  
+-  **Generative AI Projects**
+
 --
 
 > *“Mathematics reveals the hidden structure of the universe – and I am passionate about guiding others to see it clearly.”*
