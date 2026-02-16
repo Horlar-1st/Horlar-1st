@@ -141,13 +141,16 @@ Supporting learners in Campus and Graduate-level Generative AI and prompt engine
 - 💻 Graduate Intern (Codeveda, Jan 2026–Present)
 Working on data analysis and software development tasks, contributing to real-world projects while strengthening industry-ready programming and analytical skills.
 
-- 🎓 Assistant Lecturer (Statistics) (Ogun State Institute of Technology)
+- 💻 Graduate Intern (Data Science department, LASU, Oct 2025–Jan 2026)
+Working on data analysis and software development tasks, contributing to real-world projects while strengthening industry-ready programming and analytical skills.
+
+- 🎓 Assistant Lecturer (Statistics) (Ogun State Institute of Technology, Igbesa, 2023-2024)
 Taught undergraduate courses in statistics and mathematics, supervised student projects, and supported curriculum delivery and assessment.
 
-- 🧑🏾‍🏫 Teaching Assistant (Lagos State University)
+- 🧑🏾‍🏫 Teaching Assistant (Lagos State University, Ojo)
 Assisted in tutorials, grading, and mentoring undergraduate students in calculus, algebra, probability, and applied statistics.
 
-- 🌍 Community Tutor (AIMS Ghana)
+- 🌍 Community engagement (AIMS Ghana)
 Provided peer tutoring and academic support in mathematics, programming, and research methods within a pan-African learning environment.
 
 - 🧠 Anchor & Examiner (Da-Google Mathematics Competition, 2021–Present)
