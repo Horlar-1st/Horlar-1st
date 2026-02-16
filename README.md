@@ -135,7 +135,23 @@ Key features include:
 ---
 ## 🎓 Teaching & Mentorship
 
-- 🌍 GenAI and Prompt Eng. Assistant (Thrive Africa, 2026–Present) – Supporting learners in the Campus & Graduate GenAI and prompt engineering programs with mentorship AI tools.
+- 🌍 GenAI & Prompt Engineering Assistant (Thrive Africa, 2026–Present)
+Supporting learners in Campus and Graduate-level Generative AI and prompt engineering programs through mentorship, guided projects, and AI tool support.
+
+- 💻 Graduate Intern (Codeveda, Jan 2026–Present)
+Working on data analysis and software development tasks, contributing to real-world projects while strengthening industry-ready programming and analytical skills.
+
+- 🎓 Assistant Lecturer (Statistics) (Ogun State Institute of Technology)
+Taught undergraduate courses in statistics and mathematics, supervised student projects, and supported curriculum delivery and assessment.
+
+- 🧑🏾‍🏫 Teaching Assistant (Lagos State University)
+Assisted in tutorials, grading, and mentoring undergraduate students in calculus, algebra, probability, and applied statistics.
+
+- 🌍 Community Tutor (AIMS Ghana)
+Provided peer tutoring and academic support in mathematics, programming, and research methods within a pan-African learning environment.
+
+- 🧠 Anchor & Examiner (Da-Google Mathematics Competition, 2021–Present)
+Designed and led a national mathematics competition, mentoring secondary school students and promoting STEM engagement across Nigeria.
 
 ---
 # 💻 Tech Stack:
