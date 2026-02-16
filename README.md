@@ -132,6 +132,10 @@ Key features include:
 - 🥇 **Best Graduating Student – BSc Mathematics (LASU, 2021)**  
   Recognized as the top-performing student in the Mathematics department.
 
+---
+## 🎓 Teaching & Mentorship
+
+- 🌍 GenAI and Prompt Eng. Assistant (Thrive Africa, 2026–Present) – Supporting learners in the Campus & Graduate GenAI and prompt engineering programs with mentorship AI tools.
 
 ---
 # 💻 Tech Stack:
