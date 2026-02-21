@@ -113,8 +113,7 @@ Key features include:
 
 ## ⭐ ZeedsReviews
 
-**ZeedsReviews** is a modern web platform for book editing and review services.  
-I designed and built the project end-to-end — from **brand identity and logo** to a **responsive, user-friendly website**.
+**ZeedsReviews** is a modern web platform for book editing and review services.  I designed and built this project through Loveable AI from end-to-end — from **brand identity and logo** to a **responsive, user-friendly website**.
 
 **Key highlights:**
 - 📚 Book & novel reviews, critiques, and summaries  
