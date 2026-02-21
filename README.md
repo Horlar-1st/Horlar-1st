@@ -110,6 +110,22 @@ Key features include:
 
 **💻 Stack**: TypeScript, Javascript, Lovable.dev (platform), Node.js
 
+
+## ⭐ ZeedsReviews
+
+**ZeedsReviews** is a modern web platform for book editing and review services.  
+I designed and built the project end-to-end — from **brand identity and logo** to a **responsive, user-friendly website**.
+
+**Key highlights:**
+- 📚 Book & novel reviews, critiques, and summaries  
+- ✍️ Editorial services showcase (editing & reviewing)  
+- 🎨 Custom branding and clean UI design  
+- ⚡ Built with modern web technologies and deployed for production  
+
+🔗 Live site: https://zeedsreviews.vercel.app  
+🔗 Repository: https://github.com/MoshoodSO/zeedsreviews
+
+
 ---
 # 🏆 Recognitions
 - 📜 **LinkedIn Learning Certifications (2025 - 2026)**  
