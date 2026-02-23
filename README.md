@@ -122,7 +122,7 @@ Key features include:
 - ⚡ Built with modern web technologies and deployed for production  
 
 🔗 Live site: https://zeedsreviews.vercel.app  
-🔗 Repository: https://github.com/MoshoodSO/zeedsreviews
+🔗 Repository: [🔗 GitHub Repo](https://github.com/MoshoodSO/zeedsreviews)
 
 
 ---
