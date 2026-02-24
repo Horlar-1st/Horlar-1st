@@ -1,4 +1,4 @@
-<!-- <img width="20%" align="right" alt="working" 
+y<!-- <img width="20%" align="right" alt="working" 
   src="https://github.com/MoshoodSO/MoshoodSO/blob/main/img.png"/> -->
 
 # 👨‍🏫 Hi, I'm Moshood.
@@ -122,7 +122,7 @@ Key features include:
 - ⚡ Built with modern web technologies and deployed for production  
 
 🔗 Live site: https://zeedsreviews.vercel.app  
-🔗 Repository: [🔗 GitHub Repo](https://github.com/MoshoodSO/zeedsreviews)
+🔗 Repository: [GitHub Repo:ZeedsReviews](https://github.com/MoshoodSO/zeedsreviews)
 
 
 ---
