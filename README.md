@@ -211,6 +211,7 @@ Designed and led a national mathematics competition, mentoring secondary school 
 ![re](https://img.shields.io/badge/re-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-1A237E?style=for-the-badge&logo=nltk&logoColor=white)
+![SpaCy](https://img.shields.io/badge/SpaCy-1A237E?style=for-the-badge&logo=SpaCy&logoColor=white)
 
 ![wordcloud](https://img.shields.io/badge/wordcloud-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![requests](https://img.shields.io/badge/requests-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
