@@ -181,6 +181,7 @@ Designed and led a national mathematics competition, mentoring secondary school 
 ![SageMath](https://img.shields.io/badge/SageMath-%231A5ACC.svg?style=for-the-badge&logoColor=white)
 ![Wolfram Mathematica](https://img.shields.io/badge/Wolfram_Mathematica-%23DD1100.svg?style=for-the-badge&logo=wolfram&logoColor=white)
 
+
 ![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
@@ -201,22 +202,25 @@ Designed and led a national mathematics competition, mentoring secondary school 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-v2.6.3-blue)
 
+![wordcloud](https://img.shields.io/badge/wordcloud-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-%23404eed.svg?style=for-the-badge&logo=gradio&logoColor=white)
 
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)
-![re](https://img.shields.io/badge/re-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-1A237E?style=for-the-badge&logo=nltk&logoColor=white)
 ![SpaCy](https://img.shields.io/badge/SpaCy-1A237E?style=for-the-badge&logo=SpaCy&logoColor=white)
+![Polyglot](https://img.shields.io/badge/polyglot-1A237E?style=for-the-badge&logo=polyglot&logoColor=white)
 
-![wordcloud](https://img.shields.io/badge/wordcloud-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![requests](https://img.shields.io/badge/requests-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![re](https://img.shields.io/badge/re-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white)
 ![tidymodels](https://img.shields.io/badge/tidymodels-EE6331?style=for-the-badge&logo=tidymodels&logoColor=white)
