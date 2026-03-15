@@ -254,7 +254,7 @@ Designed and led a national mathematics competition, mentoring secondary school 
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Horlar-1st&theme=dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoshoodSO&theme=dark" />
     </td>
     <td>
       <img src="https://github-profile-trophy.vercel.app/?username=Horlar-1st&theme=dark&margin-w=10&row=2&column=3" />
