@@ -186,6 +186,7 @@ Designed and led a national mathematics competition, mentoring secondary school 
 ![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
+![trello](https://img.shields.io/badge/trello-050038?style=for-the-badge&logo=trello&logoColor=white)
 ![GoogleColab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
 
