@@ -1,7 +1,7 @@
 <!-- <img width="20%" align="right" alt="working" 
   src="https://github.com/MoshoodSO/MoshoodSO/blob/main/img.png"/> -->
 
-# 👨‍🏫 Hi, I'm Moshood.
+# 👨‍🏫 Hey! I'm Moshood.
 
 I’m a passionate mathematician and researcher with a strong focus on **Data Science**, **Natural Language Processing**, and **Generative AI**. My work blends rigorous mathematical reasoning with modern computational methods to build intelligent models, analyze complex datasets, and develop innovative language-focused AI systems. I enjoy solving challenging problems, mentoring learners at all levels, and exploring how advanced mathematical concepts drive real-world solutions in AI and machine learning.
 
