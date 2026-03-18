@@ -121,7 +121,7 @@ Key features include:
 - 🎨 Custom branding and clean UI design  
 - ⚡ Built with modern web technologies and deployed for production  
 
-🔗 Live site: https://zeedsreviews.vercel.app  
+🔗 Live site: [Zeeds Webpage](https://zeedsreviews.vercel.app)
 🔗 Repository: [GitHub Repo:ZeedsReviews](https://github.com/MoshoodSO/zeedsreviews)
 
 
