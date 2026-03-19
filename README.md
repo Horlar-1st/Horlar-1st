@@ -155,7 +155,7 @@ Key features include:
 - 🌍 GenAI & Prompt Engineering Assistant (Thrive Africa, 2026–Present)
 Supporting learners in Campus and Graduate-level Generative AI and prompt engineering programs through mentorship, guided projects, and AI tool support.
 
-- 💻 Data Science Intern (Codeveda, Jan. 2026–Feb. 2026)
+- 💻 Data Science Intern (Codeveda Technologies, Jan. 2026–Feb. 2026)
 Working on data analysis and software development tasks, contributing to real-world projects while strengthening industry-ready programming and analytical skills.
 
 - 💻 Graduate Intern (Data Science department, LASU, Oct 2025–Jan 2026)
