@@ -96,6 +96,8 @@ This project performs sentiment analysis on customer reviews of British Airways 
 - Uncover patterns and trends
 - Support airline decision-makers in improving services based on data-driven feedback
 
+**💻 Stack**: Python, NLTK, Wordcloud, transformer, Matplotlib/Seaborn
+
 
 
 ## 🤖📊 GPA Genius - An AI-Powered GPA Calculator and Tracker
