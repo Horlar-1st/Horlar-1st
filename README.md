@@ -87,6 +87,16 @@ Key features include:
 **💻 Stack**: TypeScript, Javascript, Lovable.dev (platform), Node.js, Python (for NLP tasks)
 
 
+## British Airway Reviews Sentiment 
+
+This project performs sentiment analysis on customer reviews of British Airways to understand overall passenger satisfaction, identify key themes in customer feedback, classify reviews as positive, negative, or neutral, and analyse the reviews' feedback to get more insights.
+
+- Analyse large volumes of textual feedback
+- Text classification
+- Uncover patterns and trends
+- Support airline decision-makers in improving services based on data-driven feedback
+
+
 
 ## 🤖📊 GPA Genius - An AI-Powered GPA Calculator and Tracker
 
