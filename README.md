@@ -87,7 +87,7 @@ Key features include:
 **💻 Stack**: TypeScript, Javascript, Lovable.dev (platform), Node.js, Python (for NLP tasks)
 
 
-## British Airway Reviews Sentiment 
+## ✈️🌟 British Airway Reviews Sentiment 
 
 <!-- ![Display](https://github.com/MoshoodSO/British-Airway-Reviews-Sentiment-Analysis/blob/main/demo/british_gif.gif)-->
 
