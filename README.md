@@ -224,7 +224,7 @@ Designed and led a national mathematics competition, mentoring secondary school 
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Oreate](https://img.shields.io/badge/Oreate-00C4CC?style=for-the-badge&logo=Oreate&logoColor=white)
 
-![Shell](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=shell&logoColor=white)
+![Shell](https://img.shields.io/badge/shell-%23F05033.svg?style=for-the-badge&logo=shell&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
