@@ -167,7 +167,7 @@ Key features include:
 ---
 ## 🎓 Teaching & Mentorship
 
-- 🌍 GenAI & Prompt Engineering Assistant (Thrive Africa, 2026–Present)
+- 🌍 GenAI & Prompt Engineering Assistant and Project Captain (Thrive Africa, 2026–Present)
 Supporting learners in Campus and Graduate-level Generative AI and prompt engineering programs through mentorship, guided projects, and AI tool support.
 
 - 💻 Data Science Intern (Codeveda Technologies, Jan. 2026–Feb. 2026)
