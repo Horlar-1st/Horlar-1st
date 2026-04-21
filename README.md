@@ -167,25 +167,25 @@ Key features include:
 ---
 ## 🎓 Teaching & Mentorship
 
-- 🌍 GenAI & Prompt Engineering Assistant and Project Captain (Thrive Africa, 2026–Present)
+- 🌍 GenAI & Prompt Engineering Assistant and Project Captain (Thrive Africa, 2026–Present)\
   Supporting learners in Campus and Graduate-level Generative AI and prompt engineering programs through mentorship, guided projects, and AI tool support.
 
-- 💻 Data Science Intern (Codeveda Technologies, Jan. 2026–Feb. 2026)
+- 💻 Data Science Intern (Codeveda Technologies, Jan. 2026–Feb. 2026)\
   Working on data analysis and software development tasks, contributing to real-world projects while strengthening industry-ready programming and analytical skills.
 
-- 💻 Graduate Intern (Data Science department, LASU, Oct 2025–Jan 2026)
+- 💻 Graduate Intern (Data Science department, LASU, Oct 2025–Jan 2026)\
   Working on data analysis and software development tasks, contributing to real-world projects while strengthening industry-ready programming and analytical skills.
 
-- 🎓 Assistant Lecturer (Statistics) (Ogun State Institute of Technology, Igbesa, 2023-2024)
+- 🎓 Assistant Lecturer (Statistics) (Ogun State Institute of Technology, Igbesa, 2023-2024)\
   Taught undergraduate courses in statistics and mathematics, supervised student projects, and supported curriculum delivery and assessment.
 
-- 🧑🏾‍🏫 Teaching Assistant (Lagos State University, Ojo)
+- 🧑🏾‍🏫 Teaching Assistant (Lagos State University, Ojo)\
   Assisted in tutorials, grading, and mentoring undergraduate students in calculus, algebra, probability, and applied statistics.
 
-- 🌍 Community engagement (AIMS Ghana)
+- 🌍 Community engagement (AIMS Ghana)\
   Provided peer tutoring and academic support in mathematics, programming, and research methods within a pan-African learning environment.
 
-- 🧠 Anchor & Examiner (Da-Google Mathematics Competition, 2021–Present)
+- 🧠 Anchor & Examiner (Da-Google Mathematics Competition, 2021–Present)\
   Designed and led a national mathematics competition, mentoring secondary school students and promoting STEM engagement across Nigeria.
 
 ---
