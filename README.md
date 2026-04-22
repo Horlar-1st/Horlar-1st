@@ -10,7 +10,7 @@ I most recently earned an MSc in Mathematical Sciences from the African Institut
 
 I am currently engaged in academic research, tutoring, and applying computational techniques to both theoretical and practical problems, with a growing focus on data science, Natural Language Processing, and AI/ML-driven solutions. My work spans teaching and mentoring students in mathematics and statistics, conducting research that applies computational methods to real-world challenges, and developing data-driven solutions through programming in Python, R, SQL, SageMath and Wolfram Mathematica, effectively combining mathematical theory with practical implementation.
 
-Let’s Connect: <a href="mailto:shoyombomoshood1@gmail.com">
+Let’s Connect: \ <a href="mailto:shoyombomoshood1@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"> </a>
   <a href="https://www.linkedin.com/in/shoyombo-moshood-582003126" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"> </a>
