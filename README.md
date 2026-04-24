@@ -29,9 +29,9 @@ Let’s Connect:
 
 # 🛠️ Key Skills
 
-- **Data Analysis & Visualization**: Python, R, Excel  
+- **Data Analysis & Visualization**: Python, R, Excel, Google Sheets
 - **Scientific Computing**: Wolfram Mathematica, Geogebra, Desmos
-- **Documentation & Typesetting**: LaTeX, MS Office, Google Sheets
+- **Documentation & Typesetting**: LaTeX, MS Office
 - **Programming**: Python, R, SQL, Julia, GAP
 - **Quantum Computing**: Qiskit, Cirq, Pennylane 
 - **Educational Technology & Online Tutoring**: Filo, Wayground (Quizzizz)
