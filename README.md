@@ -83,7 +83,7 @@ Key features include:
 - User Experience
 
 🔗 Repository: [GitHub Repo](https://github.com/MoshoodSO/AI-Powered-Research-Assistant-App)\
-**💻 Stack**: TypeScript, Javascript, Lovable.dev (platform), Node.js, Python (for NLP tasks)
+**💻 Stack**: Python (for NLP tasks), Lovable.dev (platform), TypeScript, Javascript,  Node.js
 
 
 ## ✈️🌟 British Airway Reviews Sentiment 
