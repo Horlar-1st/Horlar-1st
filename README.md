@@ -82,8 +82,7 @@ Key features include:
 - AI-Powered Assistant 
 - User Experience
 
-[🔗 GitHub Repo](https://github.com/MoshoodSO/AI-Powered-Research-Assistant-App)
-
+🔗 Repository: [GitHub Repo](https://github.com/MoshoodSO/AI-Powered-Research-Assistant-App)\
 **💻 Stack**: TypeScript, Javascript, Lovable.dev (platform), Node.js, Python (for NLP tasks)
 
 
