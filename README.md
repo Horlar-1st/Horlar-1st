@@ -106,7 +106,6 @@ This project performs sentiment analysis on customer reviews of British Airways 
 
 ![Demo](https://github.com/MoshoodSO/GPA-Calculator/blob/main/graphics/GPAdemo.gif)
 
-
 🚀 GPA Genius is a smart web app that helps students take control of their academic journey. It quickly calculates GPAs, visualizes progress over time, and turns academic data into clear, actionable insights.
 
 Built with Lovable.dev, an AI-powered platform for creating web apps, GPA Genius makes it easy to track performance, set goals, and stay motivated—all in one place.
@@ -118,8 +117,7 @@ Key features include:
 - Visualization of academic trends with graphs
 - Plan and project better outcomes and suggect area of focus
 
-[🔗 GitHub Repo](https://github.com/MoshoodSO/GPA-Calculator)
-
+🔗 Repository: [GitHub Repo](https://github.com/MoshoodSO/GPA-Calculator)\
 🚀 Simple. Visual. Goal-driven.
 
 **💻 Stack**: TypeScript, Javascript, Lovable.dev (platform), Node.js
