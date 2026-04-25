@@ -67,8 +67,7 @@ A web-based application to help young people track, validate, and manage the doc
 * Financial Education Hub
 * Banking Service Directory
 
-[🔗 GitHub Repo](https://github.com/MoshoodSO/Financial-Inclusion-among-Young-People/) 
-
+🔗 Repository: [GitHub Repo](https://github.com/MoshoodSO/Financial-Inclusion-among-Young-People/) \
 **Stack:** Python, CSS, Typescript  
 
 
