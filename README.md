@@ -97,8 +97,7 @@ This project performs sentiment analysis on customer reviews of British Airways 
 - Uncover patterns and trends
 - Support airline decision-makers in improving services based on data-driven feedback
 
-[🔗 GitHub Repo](https://github.com/MoshoodSO/British-Airway-Reviews-Sentiment-Analysis)
-
+🔗 Repository: [GitHub Repo](https://github.com/MoshoodSO/British-Airway-Reviews-Sentiment-Analysis) \
 **💻 Stack**: Python, NLTK, Wordcloud, transformer, Matplotlib/Seaborn
 
 
