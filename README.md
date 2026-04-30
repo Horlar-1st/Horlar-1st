@@ -47,7 +47,7 @@ Here you will find:
 - 🗣️ **Natural Language Processing (NLP)**: Text preprocessing, sentiment analysis, embeddings, and language models  
 - 📈 **Data Analysis Notebooks**: Data cleaning, visualization, and statistical insights from real-world datasets  
 - 🛠️ **Programming Tools & Utilities**: Python scripts and reusable modules designed to simplify data-driven workflows
--  **Generative AI Projects**
+- 🤖 **Generative AI Projects**: End-to-end AI solutions leveraging transformer-based models to automate content creation, summarization, and intelligent assistance across domains.
 
 --
 
