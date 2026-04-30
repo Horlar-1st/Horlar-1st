@@ -67,8 +67,9 @@ A web-based application to help young people track, validate, and manage the doc
 * Financial Education Hub
 * Banking Service Directory
 
-🔗 Repository: [GitHub Repo](https://github.com/MoshoodSO/Financial-Inclusion-among-Young-People/) \
-**Stack:** Python, CSS, Typescript  
+🔗 Repository: [GitHub Repo](https://github.com/MoshoodSO/Financial-Inclusion-among-Young-People/) 
+
+**💻 Stack:** Python, CSS, Typescript  
 
 
 ## 🤖📚 Research4me - An AI-Powered Research Assistant App
@@ -82,7 +83,8 @@ Key features include:
 - AI-Powered Assistant 
 - User Experience
 
-🔗 Repository: [GitHub Repo](https://github.com/MoshoodSO/AI-Powered-Research-Assistant-App)\
+🔗 Repository: [GitHub Repo](https://github.com/MoshoodSO/AI-Powered-Research-Assistant-App)
+
 **💻 Stack**: Python (for NLP tasks), Lovable.dev (platform), TypeScript, Javascript,  Node.js
 
 
@@ -97,7 +99,7 @@ This project performs sentiment analysis on customer reviews of British Airways 
 - Uncover patterns and trends
 - Support airline decision-makers in improving services based on data-driven feedback
 
-🔗 Repository: [GitHub Repo](https://github.com/MoshoodSO/British-Airway-Reviews-Sentiment-Analysis) \
+🔗 Repository: [GitHub Repo](https://github.com/MoshoodSO/British-Airway-Reviews-Sentiment-Analysis) 
 
 **💻 Stack**: Python, NLTK, Wordcloud, transformer, Matplotlib/Seaborn
 
