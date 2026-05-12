@@ -144,7 +144,8 @@ Key features include:
 
 ---
 # 🏆 Recognitions
-- 🎓 **Kumasi Hive Scholarship on [DataCamp](https://www.datacamp.com/portfolio/moshood-8efbc2c2-a9ba-4bb7-a536-0af17a8713fd) (May., 2026 - Till date)**  
+- 🎓 **Kumasi Hive Scholarship on [DataCamp](https://www.datacamp.com/portfolio/moshood-8efbc2c2-a9ba-4bb7-a536-0af17a8713fd) (May., 2026 - Till date)**
+  Certification on **Data Literacy**
 - 🎓 **Medics In Tech Scholarship on [DataCamp](https://www.datacamp.com/portfolio/moshood-8efbc2c2-a9ba-4bb7-a536-0af17a8713fd) (Feb., 2025 - Till date)**  
   Certifications on **Associate Data Scientist, Python Data Assosiate, SQL Associate, AI Fundamentals** and **Data Literacy**, and certificate of Accomplishment on *Python, R, SQL, Excel, Git*, *Data* and AI related courses both in skills and career tracks.
 - 📜 **[LinkedIn Learning](https://www.linkedin.com/learning/me/my-library/in-progress) Certifications (2025 - 2026)**  
