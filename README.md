@@ -83,7 +83,8 @@ Key features include:
 - AI-Powered Assistant 
 - User Experience
 
-🔗 Repository: [GitHub Repo](https://github.com/MoshoodSO/AI-Powered-Research-Assistant-App)
+🔗 Repository: [GitHub Repo](https://github.com/MoshoodSO/AI-Powered-Research-Assistant-App)\
+🔗 Live demo: [Live page](https://research4me.lovable.app/)
 
 **💻 Stack**: Python (for NLP tasks), Lovable.dev (platform), TypeScript, Javascript,  Node.js
 
