@@ -184,7 +184,7 @@ Key features include:
 - 🧑🏾‍🏫 Teaching Assistant (Lagos State University, Ojo, 2021-2023)\
   Assisted in tutorials, grading, and mentoring undergraduate students in calculus, algebra, probability, and applied statistics.
 
-- 🌍 Community engagement (AIMS Ghana)\
+- 🌍 Community engagement (AIMS Ghana, 2024-2025)\
   Provided peer tutoring and academic support in mathematics, programming, and research methods within a pan-African learning environment.
 
 - 🧠 Anchor & Examiner (Da-Google Mathematics Competition, 2021–Present)\
