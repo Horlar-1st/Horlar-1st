@@ -181,7 +181,7 @@ Key features include:
 - 🎓 Assistant Lecturer (Statistics) (Ogun State Institute of Technology, Igbesa, 2023-2024)\
   Taught undergraduate courses in statistics and mathematics, supervised student projects, and supported curriculum delivery and assessment.
 
-- 🧑🏾‍🏫 Teaching Assistant (Lagos State University, Ojo)\
+- 🧑🏾‍🏫 Teaching Assistant (Lagos State University, Ojo, 2021-2023)\
   Assisted in tutorials, grading, and mentoring undergraduate students in calculus, algebra, probability, and applied statistics.
 
 - 🌍 Community engagement (AIMS Ghana)\
