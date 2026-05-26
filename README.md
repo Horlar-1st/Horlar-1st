@@ -49,7 +49,7 @@ Here you will find:
 - 🛠️ **Programming Tools & Utilities**: Python scripts and reusable modules designed to simplify data-driven workflows
 - 🤖 **Generative AI Projects**: End-to-end AI solutions leveraging transformer-based models to automate content creation, summarization, and intelligent assistance across domains.
 
---
+---
 
 > *“Mathematics reveals the hidden structure of the universe – and I am passionate about guiding others to see it clearly.”*
 
