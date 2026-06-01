@@ -32,8 +32,8 @@ Let’s Connect:
 - **Data Analysis & Visualization**: Python, R, Excel, Google Sheets
 - **Scientific Computing**: Wolfram Mathematica, Geogebra, Desmos
 - **Documentation & Typesetting**: LaTeX, MS Office
-- **Programming**: Python, R, SQL, Julia, GAP
-- **Database management**
+- **Programming**: Python, R,  Julia, GAP
+- **Database management**: SQL,
 - **Quantum Computing**: Qiskit, Cirq, Pennylane 
 - **Educational Technology & Online Tutoring**: Filo, Wayground (Quizzizz)
 - **Mathematics & Theoretical Modeling**  
