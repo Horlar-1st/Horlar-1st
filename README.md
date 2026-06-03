@@ -33,7 +33,7 @@ Let’s Connect:
 - **Scientific Computing**: Wolfram Mathematica, Geogebra, Desmos
 - **Documentation & Typesetting**: LaTeX, MS Office
 - **Programming**: Python, R,  Julia, GAP
-- **Database management**: SQL, Snokflake
+- **Database management**: SQL, Snowflake
 - **Quantum Computing**: Qiskit, Cirq, Pennylane 
 - **Educational Technology & Online Tutoring**: Filo, Wayground (Quizzizz)
 - **Mathematics & Theoretical Modeling**  
