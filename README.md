@@ -103,8 +103,8 @@ This project performs sentiment analysis on customer reviews of British Airways 
 
 🔗 Repository: [GitHub Repo](https://github.com/MoshoodSO/British-Airway-Reviews-Sentiment-Analysis) 
 
-**💻 Stack**: Python,
-** Libraries: NLTK, Wordcloud, transformer, Matplotlib/Seaborn
+**💻 Stack**: Python \
+**Libraries:** NLTK, Wordcloud, transformer, Matplotlib/Seaborn
 
 
 
