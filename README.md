@@ -200,7 +200,7 @@ Key features include:
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![SageMath](https://img.shields.io/badge/SageMath-%231A5ACC.svg?style=for-the-badge&logoColor=white)
 ![Wolfram Mathematica](https://img.shields.io/badge/Wolfram_Mathematica-%23DD1100.svg?style=for-the-badge&logo=wolfram&logoColor=white)
-
+![GAP](https://img.shields.io/badge/gap-050038?style=for-the-badge&logo=gap&logoColor=white)
 
 ![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-F9AB00?style=for-the-badge&logo=google-sheets&logoColor=white)
