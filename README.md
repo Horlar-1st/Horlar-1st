@@ -207,8 +207,11 @@ Key features include:
 ![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/overleaf-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 ![trello](https://img.shields.io/badge/trello-050038?style=for-the-badge&logo=trello&logoColor=white)
+![figma](https://img.shields.io/badge/trello-050038?style=for-the-badge&logo=figma&logoColor=white)
 
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
