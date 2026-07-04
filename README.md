@@ -1,6 +1,6 @@
-<-- <img width="20%" align="right" alt="working" 
-  src="https://github.com/MoshoodSO/MoshoodSO/blob/main/work.png"/> -->
-
+ <img width="15%" align="right" alt="working" 
+  src="https://github.com/MoshoodSO/MoshoodSO/blob/main/work.png"/> 
+  
 # 👨‍🏫 Hey! I'm Moshood.
 
 I'm a mathematician and researcher passionate about **Data Science**, **Natural Language Processing (NLP)**, and **Generative AI**. I enjoy combining mathematical theory with computational methods to build intelligent systems, analyze data, and solve real-world problems.
