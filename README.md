@@ -52,7 +52,7 @@ Explore a collection of projects that demonstrate my work across data science, a
 
 Here you'll find:
 
-- 📊 **Data Science & Machine Learning:** End-to-end machine learning projects, predictive modeling, feature engineering, model evaluation, and real-world data analysis.
+- 📊 **Data Science & Machine Learning:** \ End-to-end machine learning projects, predictive modeling, feature engineering, model evaluation, and real-world data analysis.
 - 📈 **Data Analytics & Visualization:** Exploratory data analysis (EDA), statistical analysis, interactive visualizations, and insights derived from diverse datasets.
 - 🧠 **Artificial Intelligence & Generative AI:** Applications of large language models (LLMs), retrieval-augmented generation (RAG), AI assistants, and intelligent automation workflows.
 - 🗣️ **Natural Language Processing (NLP):** Text preprocessing, embeddings, sentiment analysis, document understanding, and language model applications.
