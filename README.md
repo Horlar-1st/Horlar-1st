@@ -61,7 +61,7 @@ Here you'll find:
 - 🛠️ **Python Libraries & Developer Tools:** Reusable packages, automation scripts, APIs, utilities, and productivity tools for data science and research.
 - 📚 **Research & Educational Resources:** Jupyter notebooks, technical implementations, tutorials, and reproducible computational experiments.
 
-
+<!--
 # 📁 Featured Repositories
 
 Here you will find:
@@ -70,7 +70,8 @@ Here you will find:
 - 🗣️ **Natural Language Processing (NLP)**: Text preprocessing, sentiment analysis, embeddings, and language models  
 - 📈 **Data Analysis Notebooks**: Data cleaning, visualization, and statistical insights from real-world datasets  
 - 🛠️ **Programming Tools & Utilities**: Python scripts and reusable modules designed to simplify data-driven workflows
-- 🤖 **Generative AI Projects**: End-to-end AI solutions leveraging transformer-based models to automate content creation, summarization, and intelligent assistance across domains.
+- 🤖 **Generative AI Projects**: End-to-end AI solutions leveraging transformer-based models to automate content creation, summarization, and intelligent assistance across domains. 
+-->
 
 ---
 
