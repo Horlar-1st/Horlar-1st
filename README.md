@@ -52,10 +52,12 @@ Explore a collection of projects that demonstrate my work across data science, a
 
 Here you'll find:
 
-- 📊 **Data Science & Machine Learning:**\
+- 📊 **Data Science & Machine Learning**\
   End-to-end machine learning projects, predictive modeling, feature engineering, model evaluation, and real-world data analysis.
-- 📈 **Data Analytics & Visualization:** Exploratory data analysis (EDA), statistical analysis, interactive visualizations, and insights derived from diverse datasets.
-- 🧠 **Artificial Intelligence & Generative AI:** Applications of large language models (LLMs), retrieval-augmented generation (RAG), AI assistants, and intelligent automation workflows.
+- 📈 **Data Analytics & Visualization**\
+  Exploratory data analysis (EDA), statistical analysis, interactive visualizations, and insights derived from diverse datasets.
+- 🧠 **Artificial Intelligence & Generative AI**\
+  Applications of large language models (LLMs), retrieval-augmented generation (RAG), AI assistants, and intelligent automation workflows.
 - 🗣️ **Natural Language Processing (NLP):** Text preprocessing, embeddings, sentiment analysis, document understanding, and language model applications.
 - ⚛️ **Quantum Computing:** Quantum algorithms, circuit simulation, quantum machine learning, and experimentation using modern quantum computing frameworks.
 - ➗ **Mathematics & Scientific Computing:** Mathematical modeling, numerical methods, symbolic computation, optimization, and computational mathematics.
