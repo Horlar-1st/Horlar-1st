@@ -44,17 +44,6 @@ Let’s Connect:
 - **Mathematics & Theoretical Modeling:** Applied mathematics, mathematical modeling, optimization, and analytical problem-solving
 - **Educational Technology & Online Instruction:** Online tutoring, digital learning platforms, Filo, and Wayground (Quizizz)
 
-<!-- # 🛠️ Key Skills
-
-- **Data Analysis & Visualization**: Python, R, Excel, Google Sheets
-- **Scientific Computing**: Wolfram Mathematica, Geogebra, Desmos
-- **Documentation & Typesetting**: LaTeX, MS Office
-- **Programming**: Python, R,  Julia, GAP
-- **Database management**: SQL (PostgreSQL), Snowflake
-- **Quantum Computing**: Qiskit, Cirq, Pennylane 
-- **Educational Technology & Online Tutoring**: Filo, Wayground (Quizzizz)
-- **Mathematics & Theoretical Modeling**  
--->
 ---
 
 # 📁 Featured Repositories
