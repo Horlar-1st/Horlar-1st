@@ -197,7 +197,7 @@ Key features include:
 ---
 ## 🎓 Teaching & Mentorship
 
-- 💻 Data Science Intern (Codeveda Technologies, Jan. 2026–Feb. 2026)\
+- 💻 Data Science Intern (Oasis Infobyte, July 2026 – Aug. 2026)\
   Working on data analysis and software development tasks, contributing to real-world projects while strengthening industry-ready programming and analytical skills.
 
 - 🌍 GenAI & Prompt Engineering Assistant and Project Captain (Thrive Africa, 2026–Present)\
