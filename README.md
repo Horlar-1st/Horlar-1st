@@ -297,6 +297,46 @@ Key features include:
 
 # 📊 GitHub Stats
 
+
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=MoshoodSO&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://streak-stats.demolab.com/?user=MoshoodSO&theme=dark&hide_border=true"
+        alt="GitHub Streak"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoshoodSO&theme=dark&hide_border=true&layout=donut"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoshoodSO&theme=dark"
+        alt="Profile Details"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-profile-trophy.vercel.app/?username=MoshoodSO&theme=dark&margin-w=10&row=2&column=3"
+        alt="GitHub Trophies"
+      />
+    </td>
+  </tr>
+</table>
+
+
+
 <table>
   <tr>
     <td>
