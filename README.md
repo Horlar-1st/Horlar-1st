@@ -335,7 +335,7 @@ Key features include:
   </tr>
 </table>
 
-
+<!--
 
 <table>
   <tr>
@@ -358,3 +358,5 @@ Key features include:
     </td>
   </tr>
 </table>
+
+-->
