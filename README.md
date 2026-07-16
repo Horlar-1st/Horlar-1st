@@ -231,6 +231,10 @@ Key features include:
 ![Wolfram Mathematica](https://img.shields.io/badge/Wolfram_Mathematica-%23DD1100.svg?style=for-the-badge&logo=wolfram&logoColor=white)
 ![GAP](https://img.shields.io/badge/gap-050038?style=for-the-badge&logo=gap&logoColor=white)
 
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![GoogleColab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Android Studio](https://img.shields.io/badge/AndroidStudio-F37626?style=for-the-badge&logo=androidstudio&logoColor=white)
+
 ![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-F9AB00?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -264,8 +268,6 @@ Key features include:
 ![Shell](https://img.shields.io/badge/shell-%23F05033.svg?style=for-the-badge&logo=shell&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![GoogleColab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-%23404eed.svg?style=for-the-badge&logo=gradio&logoColor=white)
 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)
