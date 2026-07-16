@@ -234,6 +234,8 @@ Key features include:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GoogleColab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/AndroidStudio-F37626?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VSCode](https://img.shields.io/badge/vscode-F37626?style=for-the-badge&logo=vscode&logoColor=white)
+
 
 ![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-F9AB00?style=for-the-badge&logo=google-sheets&logoColor=white)
