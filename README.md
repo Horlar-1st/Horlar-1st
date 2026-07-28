@@ -197,7 +197,7 @@ Key features include:
 ---
 ## 🎓 Teaching & Mentorship
 
-- 💻 Android programming and Data Science Intern (Oasis Infobyte, July 2026 – Aug. 2026)\
+- 💻 Android Programming and Data Science Intern (Oasis Infobyte, June 2026 – Aug. 2026)\
   Working on data analysis and software development tasks, contributing to real-world projects while strengthening industry-ready programming and analytical skills.
 
 - 🌍 GenAI & Prompt Engineering Assistant and Project Captain (Thrive Africa, Jan. 2026 – June 2026)\
