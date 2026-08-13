@@ -195,7 +195,7 @@ Key features include:
   Recognized as the top-performing student in the Mathematics department.
 
 ---
-## 🎓 Teaching & Mentorship
+# 🎓 Teaching & Mentorship
 
 - 💻 Android Programming and Data Science Intern (Oasis Infobyte, June 2026 – Aug. 2026)\
   Working on data analysis and software development tasks, contributing to real-world projects while strengthening industry-ready programming and analytical skills.
@@ -301,7 +301,7 @@ Key features include:
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 
 <table>
