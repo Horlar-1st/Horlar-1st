@@ -298,8 +298,8 @@ Key features include:
 ![qBraid](https://img.shields.io/badge/qBraid-DB0071?style=for-the-badge&logo=qbraid&logoColor=white)
 
 
-![LovableAI](https://img.shields.io/badge/lovableai-F37626?style=for-the-badge&logo=lovableai&logoColor=white)
-
+![Lovable AI](https://img.shields.io/badge/lovableai-F37626?style=for-the-badge&logo=lovableai&logoColor=white)
+![n8nI](https://img.shields.io/badge/n8n-F37626?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
