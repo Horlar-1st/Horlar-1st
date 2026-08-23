@@ -85,34 +85,6 @@ Here you will find:
 # 💡 Featured Projects  
 
 
-
-
-
-
-## 🤖📊 GPA Genius - An AI-Powered GPA Calculator and Tracker
-
-![Demo](https://github.com/MoshoodSO/GPA-Calculator/blob/main/graphics/GPAdemo.gif)
-
-🚀 GPA Genius is a smart web app that helps students take control of their academic journey. It quickly calculates GPAs, visualizes progress over time, and turns academic data into clear, actionable insights.
-
-Built with Lovable.dev, an AI-powered platform for creating web apps, GPA Genius makes it easy to track performance, set goals, and stay motivated—all in one place.
-
-Key features include:
-- Calculating GPA per semester
-- Enable Grading Scale setting
-- Track cummulative GPA across multiple semesters
-- Visualization of academic trends with graphs
-- Plan and project better outcomes and suggect area of focus
-
-🔗 Repository: [GitHub Repo](https://github.com/MoshoodSO/GPA-Calculator)\
-🚀 Simple. Visual. Goal-driven.
-
-**💻 Stack**: TypeScript, Javascript, Lovable.dev (platform), Node.js
-
-
-
-
-
 ## ✈️🌟 British Airway Reviews Sentiment 
 
 <!-- ![Display](https://github.com/MoshoodSO/British-Airway-Reviews-Sentiment-Analysis/blob/main/demo/british_gif.gif)-->
@@ -131,7 +103,21 @@ This project performs sentiment analysis on customer reviews of British Airways 
 
 
 
+## 🤖📚 Research4me - An AI-Powered Research Assistant App
 
+![Demo](https://github.com/MoshoodSO/AI-Powered-Research-Assistant-App/blob/main/research4me.gif)
+
+This project was built using Lovable.dev, an AI-powered platform that enables the creation of full-stack web applications from natural language prompts. The app is designed for researchers and professionals who need to quickly analyze and extract insights from research documents.
+
+Key features include:
+- Document Upload & Processing (Support for multiple file formats PDF, DOCX, etc.)
+- AI-Powered Assistant 
+- User Experience
+
+🔗 Repository: [GitHub Repo](https://github.com/MoshoodSO/AI-Powered-Research-Assistant-App)\
+🔗 Live demo: [Live page](https://research4me.lovable.app/)
+
+**💻 Stack**: Python (for NLP tasks), Lovable.dev (platform), TypeScript, Javascript,  Node.js
 
 
 
