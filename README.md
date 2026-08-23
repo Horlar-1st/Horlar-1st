@@ -111,21 +111,6 @@ Key features include:
 
 
 
-## 🤖📚 Research4me - An AI-Powered Research Assistant App
-
-![Demo](https://github.com/MoshoodSO/AI-Powered-Research-Assistant-App/blob/main/research4me.gif)
-
-This project was built using Lovable.dev, an AI-powered platform that enables the creation of full-stack web applications from natural language prompts. The app is designed for researchers and professionals who need to quickly analyze and extract insights from research documents.
-
-Key features include:
-- Document Upload & Processing (Support for multiple file formats PDF, DOCX, etc.)
-- AI-Powered Assistant 
-- User Experience
-
-🔗 Repository: [GitHub Repo](https://github.com/MoshoodSO/AI-Powered-Research-Assistant-App)\
-🔗 Live demo: [Live page](https://research4me.lovable.app/)
-
-**💻 Stack**: Python (for NLP tasks), Lovable.dev (platform), TypeScript, Javascript,  Node.js
 
 
 ## ✈️🌟 British Airway Reviews Sentiment 
@@ -145,19 +130,7 @@ This project performs sentiment analysis on customer reviews of British Airways 
 **Python Libraries:** NLTK, Wordcloud, transformer, Matplotlib/Seaborn
 
 
-## 🧑🏾‍⚖️ Financial Inclusion App 
 
-![Financial Inclusion App](https://github.com/MoshoodSO/Financial-Inclusion-among-Young-People/blob/main/financial_inclusion_demo1.gif)
-
-A web-based application to help young people track, validate, and manage the documents required for opening and maintaining bank accounts, provide a learning space to improve financial literacy among youth and empower informed decision-making and gives accessible and youth-friendly financial institutions, mobile money platforms, and fintech solutions to get started.
-
-* Banking Document Manager
-* Financial Education Hub
-* Banking Service Directory
-
-🔗 Repository: [GitHub Repo](https://github.com/MoshoodSO/Financial-Inclusion-among-Young-People/) 
-
-**💻 Stack:** Python, CSS, Typescript  
 
 
 
@@ -174,6 +147,39 @@ A web-based application to help young people track, validate, and manage the doc
 
 🔗 Live site: [Zeeds Webpage](https://zeedsreviews.vercel.app)\
 🔗 Repository: [GitHub Repo](https://github.com/MoshoodSO/zeedsreviews)
+
+
+## 🤖📚 Research4me - An AI-Powered Research Assistant App
+
+![Demo](https://github.com/MoshoodSO/AI-Powered-Research-Assistant-App/blob/main/research4me.gif)
+
+This project was built using Lovable.dev, an AI-powered platform that enables the creation of full-stack web applications from natural language prompts. The app is designed for researchers and professionals who need to quickly analyze and extract insights from research documents.
+
+Key features include:
+- Document Upload & Processing (Support for multiple file formats PDF, DOCX, etc.)
+- AI-Powered Assistant 
+- User Experience
+
+🔗 Repository: [GitHub Repo](https://github.com/MoshoodSO/AI-Powered-Research-Assistant-App)\
+🔗 Live demo: [Live page](https://research4me.lovable.app/)
+
+**💻 Stack**: Python (for NLP tasks), Lovable.dev (platform), TypeScript, Javascript,  Node.js
+
+
+## 🧑🏾‍⚖️ Financial Inclusion App 
+
+![Financial Inclusion App](https://github.com/MoshoodSO/Financial-Inclusion-among-Young-People/blob/main/financial_inclusion_demo1.gif)
+
+A web-based application to help young people track, validate, and manage the documents required for opening and maintaining bank accounts, provide a learning space to improve financial literacy among youth and empower informed decision-making and gives accessible and youth-friendly financial institutions, mobile money platforms, and fintech solutions to get started.
+
+* Banking Document Manager
+* Financial Education Hub
+* Banking Service Directory
+
+🔗 Repository: [GitHub Repo](https://github.com/MoshoodSO/Financial-Inclusion-among-Young-People/) 
+
+**💻 Stack:** Python, CSS, Typescript  
+
 
 
 ---
