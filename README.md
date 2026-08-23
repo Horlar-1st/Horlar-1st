@@ -84,6 +84,32 @@ Here you will find:
 
 # 💡 Featured Projects  
 
+
+
+
+
+
+## 🤖📊 GPA Genius - An AI-Powered GPA Calculator and Tracker
+
+![Demo](https://github.com/MoshoodSO/GPA-Calculator/blob/main/graphics/GPAdemo.gif)
+
+🚀 GPA Genius is a smart web app that helps students take control of their academic journey. It quickly calculates GPAs, visualizes progress over time, and turns academic data into clear, actionable insights.
+
+Built with Lovable.dev, an AI-powered platform for creating web apps, GPA Genius makes it easy to track performance, set goals, and stay motivated—all in one place.
+
+Key features include:
+- Calculating GPA per semester
+- Enable Grading Scale setting
+- Track cummulative GPA across multiple semesters
+- Visualization of academic trends with graphs
+- Plan and project better outcomes and suggect area of focus
+
+🔗 Repository: [GitHub Repo](https://github.com/MoshoodSO/GPA-Calculator)\
+🚀 Simple. Visual. Goal-driven.
+
+**💻 Stack**: TypeScript, Javascript, Lovable.dev (platform), Node.js
+
+
 ## 🧑🏾‍⚖️ Financial Inclusion App 
 
 ![Financial Inclusion App](https://github.com/MoshoodSO/Financial-Inclusion-among-Young-People/blob/main/financial_inclusion_demo1.gif)
@@ -134,25 +160,6 @@ This project performs sentiment analysis on customer reviews of British Airways 
 
 
 
-## 🤖📊 GPA Genius - An AI-Powered GPA Calculator and Tracker
-
-![Demo](https://github.com/MoshoodSO/GPA-Calculator/blob/main/graphics/GPAdemo.gif)
-
-🚀 GPA Genius is a smart web app that helps students take control of their academic journey. It quickly calculates GPAs, visualizes progress over time, and turns academic data into clear, actionable insights.
-
-Built with Lovable.dev, an AI-powered platform for creating web apps, GPA Genius makes it easy to track performance, set goals, and stay motivated—all in one place.
-
-Key features include:
-- Calculating GPA per semester
-- Enable Grading Scale setting
-- Track cummulative GPA across multiple semesters
-- Visualization of academic trends with graphs
-- Plan and project better outcomes and suggect area of focus
-
-🔗 Repository: [GitHub Repo](https://github.com/MoshoodSO/GPA-Calculator)\
-🚀 Simple. Visual. Goal-driven.
-
-**💻 Stack**: TypeScript, Javascript, Lovable.dev (platform), Node.js
 
 
 ## ⭐ ZeedsReviews
