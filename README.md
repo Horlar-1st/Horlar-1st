@@ -92,6 +92,8 @@ Career Copilot is an AI-powered job assistant that  helps job seekers turn their
 - Paste job description
 - Upload a LinkedIn PDF
 
+🔗 Repository: [GitHub Repo]([https://github.com/MoshoodSO/British-Airway-Reviews-Sentiment-Analysis](https://github.com/MoshoodSO/career-compass)) 
+
 **💻 Stack**: Lovable, n8n, JSON
 
 
