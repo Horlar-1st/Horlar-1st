@@ -90,7 +90,7 @@ Career Copilot is an AI-powered job assistant that  helps job seekers turn their
 
 - Upload your CV (PDF)
 - Paste job description
-- Upload a LinkedIn PDF
+- Upload a LinkedIn report (PDF)
 
 🔗 Repository: [GitHub Repo](https://github.com/MoshoodSO/career-compass)
 
@@ -100,7 +100,7 @@ Career Copilot is an AI-powered job assistant that  helps job seekers turn their
 
 ## ✈️🌟 British Airway Reviews Sentiment 
 
-<!-- ![Display](https://github.com/MoshoodSO/British-Airway-Reviews-Sentiment-Analysis/blob/main/demo/british_gif.gif)-->
+<-- ![Display](https://github.com/MoshoodSO/British-Airway-Reviews-Sentiment-Analysis/blob/main/demo/british_gif.gif)-->
 
 This project performs sentiment analysis on customer reviews of British Airways to understand overall passenger satisfaction, identify key themes in customer feedback, classify reviews as positive, negative, or neutral, and analyse the reviews' feedback to get more insights.
 
