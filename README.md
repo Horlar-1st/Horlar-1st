@@ -86,6 +86,8 @@ Here you will find:
 
 ## Career Copilot - An-powered job assitant
 
+![Demo](https://github.com/MoshoodSO/career-compass/blob/main/graphics/careercopilot.gif)
+
 Career Copilot is an AI-powered job assistant that  helps job seekers turn their CV and job descriptions into a clear, actionable plan. Upload your CV, paste the job description and a LinkedIn export (PDF) — get a friendly, easy-to-use report that tells you why you're a good fit, how to improve your CV and LinkedIn, which transferable skills to emphasize, and whether you should apply.
 
 - Upload your CV (PDF)
