@@ -102,7 +102,7 @@ Career Copilot is an AI-powered job assistant that  helps job seekers turn their
 
 ## ✈️🌟 British Airway Reviews Sentiment 
 
-<img src="[https://github.com](https://github.com/MoshoodSO/British-Airway-Reviews-Sentiment-Analysis/blob/main/demo/british_gif1.gif" width="800">
+<img src="https://github.com/MoshoodSO/British-Airway-Reviews-Sentiment-Analysis/blob/main/demo/british_gif1.gif" width="800">
 
 ![Display](https://github.com/MoshoodSO/British-Airway-Reviews-Sentiment-Analysis/blob/main/demo/british_gif1.gif)
 
