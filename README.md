@@ -102,9 +102,9 @@ Career Copilot is an AI-powered job assistant that  helps job seekers turn their
 
 ## ✈️🌟 British Airway Reviews Sentiment 
 
-<!-- <img src="https://github.com/MoshoodSO/British-Airway-Reviews-Sentiment-Analysis/blob/main/demo/british_gif1.gif" width="800">
+<img src="https://github.com/MoshoodSO/British-Airway-Reviews-Sentiment-Analysis/blob/main/report_gif.gif" width="800">
 
-![Display](https://github.com/MoshoodSO/British-Airway-Reviews-Sentiment-Analysis/blob/main/demo/british_gif1.gif) -->
+<!-- ![Display](https://github.com/MoshoodSO/British-Airway-Reviews-Sentiment-Analysis/blob/main/demo/british_gif1.gif) -->
 
 This project performs sentiment analysis on customer reviews of British Airways to understand overall passenger satisfaction, identify key themes in customer feedback, classify reviews as positive, negative, or neutral, and analyse the reviews' feedback to get more insights.
 
